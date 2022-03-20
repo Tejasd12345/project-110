@@ -1,7 +1,7 @@
 body
 {
   color: white;
-  background: rgb(128, 54, 99);
+  background-image: linear-gradient(to right top, #0fbea1, #cf1414, #1882c1, #dd1eb4, #ee520a);
 }
 span
 {
